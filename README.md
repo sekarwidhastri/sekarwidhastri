@@ -62,9 +62,9 @@ I'm passionate about exploring data, building functional platforms, and creating
 
 ### 🚀 Highlighted Projects & Experience
 
+* **AWARE:** An AI-Based Workplace Assessment for Readiness and Safety. A computer vision and ML web app that assesses worker fatigue in real-time. Built during the Full-Stack Web Developer Path (DBS Foundation Coding Camp).
 * **SmartRecruiter:** An AI-powered web app automating resume screening using NLP and Semantic Embeddings. Built during the ML Engineer Path (DBS Foundation Coding Camp).
 * **IoT Environmental Monitoring:** Developed a unified monitoring interface and MQTT pipeline using Python, EMQX, and Streamlit during my R&D Internship at PT Jalawave Cakrawala.
-* **Organizational Leadership:** Led digital archiving transformation as Head of Secretary for HIMAFI ITB, ensuring 100% data integrity.
 
 ---
 
