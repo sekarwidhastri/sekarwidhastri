@@ -4,14 +4,14 @@
 
 <br>
 
-### 👋 Hello World! I'm Sekar Ayu Widhastri
+### 👋 Hello! I'm Sekar
 
 A final-year **Physics** student at **Institut Teknologi Bandung (ITB)** specializing in **Data Science**. I thrive at the intersection of analytical modeling and practical digital solutions. 
 
 I'm passionate about exploring data, building functional platforms, and creating AI-driven applications that solve real-world problems.
 
 - 🔭 **Currently Building:** Full-Stack web applications and end-to-end Machine Learning pipelines.
-- 🎓 **Currently Studying:** Physics, Machine Learning, Data Visualization, and Web Development.
+- 🎓 **Currently Studying:** Physics, Machine Learning, Data Science, and Web Development.
 - 💼 **Recent Experience:** R&D Intern at PT Jalawave Cakrawala (IoT & Data Visualization) & Graduate of DBS Foundation Coding Camps.
 
 ---
@@ -34,7 +34,6 @@ I'm passionate about exploring data, building functional platforms, and creating
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <!-- Note: The snake will appear here once the GitHub Action is set up! -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sekarwidhastri/sekarwidhastri/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sekarwidhastri/sekarwidhastri/output/github-contribution-grid-snake.svg">
