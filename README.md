@@ -19,14 +19,14 @@ I'm passionate about exploring data, building functional platforms, and creating
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sekarwidhastri&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFB6C1" alt="Sekar's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sekarwidhastri&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFB6C1" alt="Sekar's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sekarwidhastri&theme=tokyonight&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="Sekar's Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sekarwidhastri&theme=tokyo-night&hide_border=true&color=FFB6C1" alt="Sekar's Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=sekarwidhastri&theme=tokyo-night&hide_border=true&color=FFB6C1" alt="Sekar's Activity Graph" />
 </div>
 
 ---
